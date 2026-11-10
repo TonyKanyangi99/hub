@@ -1,7 +1,7 @@
 
 ---
 title: "GTA 6 Could Underperform Even If It Sells Tens of Millions"
-date: 2026-11-10
+date: 2026-11-09
 author: "L. K."
 description: "A deep dive into upcoming releases."
 draft: false
